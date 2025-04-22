@@ -1,3 +1,5 @@
+//  ******   Datatype Conversion ****** //
+
 // let score = "33";
 
 // console.log(typeof(score));
@@ -32,3 +34,14 @@
 // let bool2 =  Boolean({});
 
 // console.log(bool);
+
+
+
+
+//  ******   Operations ****** //
+
+// console.log(1 + "2");
+// console.log(1 + 2 + 2);
+
+
+
