@@ -15,4 +15,9 @@ console.log("Hlo Talha");
 // number , string, boolen, BigInt,Symbol,undefined, null
 
 //how we check the type of variable
+
 console.log(typeof("talha"));
+
+let scroe = "12";
+
+console.log(typeof(scroe));
