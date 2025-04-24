@@ -8,6 +8,11 @@
 
 //7 types of primitive datatype
 // String, Number, Boolean, Null, Undefined. Symbol, Bigint
+
+// variable declare and space declare but value is not is declare is called undefined.
+
+// Symbol is used for declare unique value.
+
  
 //2  Non-Primitive Datatype   or reference type
 //Array, objects, Functions
