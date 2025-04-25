@@ -16,3 +16,22 @@
  
 //2  Non-Primitive Datatype   or reference type
 //Array, objects, Functions
+
+// Javascirpt is dynamic lanaguage.
+
+ //let id = Symbol('123')
+ //let another = Symbol('123')
+ //console.log(id === another)
+
+ // Every Symbol() it create a new, unique symbol.
+ 
+ 
+
+// typeof of operator//
+//undefined = undefined
+//null = Object
+//number = number
+//string = string
+//boolean = boolean
+//Bingint = Bingint
+//symbol = symbol
