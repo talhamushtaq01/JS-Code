@@ -16,4 +16,11 @@ console.log(number)
 //heap
 //In heap we take referene it give original not give copy.
 
-let objects
+let userone={
+    email : "talha@gmail.com",
+    upi : "user@bl"
+}
+let usertwo = userone;
+usertwo.email = "emai.com";
+console.log(usertwo.email)
+console.log(userone.email)

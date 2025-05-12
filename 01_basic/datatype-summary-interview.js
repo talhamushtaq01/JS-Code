@@ -35,3 +35,25 @@
 //boolean = boolean
 //Bingint = Bingint
 //symbol = symbol
+
+
+
+// Stack and Heap Memory
+
+let myName ="Talha";
+let anotherName = myName;
+anotherName= "Mushtaq";
+// console.log(anotherName);
+// console.log(myName);
+
+
+
+let userOne = {
+    email: "talha@gmail.com",
+    userId : 1233
+
+}
+let userTwo = userOne;
+userTwo.email= "ali@gmail.com";
+console.log(userOne.email)
+console.log(userTwo.email)

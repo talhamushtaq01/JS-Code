@@ -26,6 +26,8 @@
 // Boolean("") => false
 // Boolean("hello")  => true
 
+//console.log(typeof null)
+
 
 
 
@@ -40,8 +42,21 @@
 
 //  ******   Operations ****** //
 
-// console.log(1 + "2");
+ //console.log(1 + '2');
 // console.log(1 + 2 + 2);
 
 
 
+
+//console.log(3+3);console.log("talha")// code readability should be high
+let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
+// Expected output: "x:4, y:3"
+
+let a = 3;
+const b = ++a;
+
+console.log(`a:${a}, b:${b}`);
+// Expected output: "a:4, b:4"
